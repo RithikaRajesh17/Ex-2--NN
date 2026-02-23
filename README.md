@@ -1,5 +1,5 @@
-<H3>Name: Sanchita Sandeep</H3>
-<H3>Register no: 2122242136/H3>
+<H3>Name: Rithika Rajesh</H3>
+<H3>Register no: 2122242136 </H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
